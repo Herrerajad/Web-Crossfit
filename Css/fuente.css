@@ -1,0 +1,58 @@
+/**{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sofia Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Caveat';
+}*/
+h1{
+    
+    color:white;
+    font-family: 'Oswald';
+    padding:10px;
+    border-bottom: 3px solid rgb(248, 24, 24);
+    text-align:left;
+}
+nav{
+    color:black;
+    font-family: 'Oswald';
+    font-size: 17px;
+    text-align: right;
+   
+    
+}
+h2{
+    
+    color:black;
+    font-family:'Oswald';
+    padding: 12px; 
+    text-align:center;
+}
+h3{
+    color: black;
+    font-family: 'Open Sans';
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+
+}
+p{
+    color: black;
+    font-family: 'Open Sans';
+    font-size: 15px; 
+    text-align: justify;
+}
+li{
+    color: black;
+    font-family: 'Open Sans';
+    font-size: 13px; 
+    font-weight: bolder;
+    text-align: justify;
+}
+h4
+{
+    color:white;
+    font-family: 'caveat';
+    font-size: 18px;
+
+}
